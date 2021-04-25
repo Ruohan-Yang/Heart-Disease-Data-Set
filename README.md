@@ -19,7 +19,7 @@ heart-disease.txt是UCI Heart Disease Data Set 官网对数据集的描述解释
 14）target- 患者是否患有心脏病。它是从0（不存在）到4的整数值。 Cleveland 数据库的实验集中在试图区分存在（值1、2、3、4）和不存在（值0）。
   
   
-另一个UCI Heart Disease Dataset.csv是对cleveland稍做处理后的数据集，数据集来源https://github.com/xjcjiacheng/data-analysis/tree/master/heart%20disease%20UCI。  
+UCI Heart Disease Dataset.csv是对cleveland稍做处理后的数据集，数据集来源自https://github.com/xjcjiacheng/data-analysis/tree/master/heart%20disease%20UCI   
 
 1-12相同  
 13）thal-一种称为地中海贫血的血液疾病（0 =正常；1 =固定缺陷；2 =可逆缺陷）  
