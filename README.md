@@ -31,19 +31,3 @@ UCI Heart Disease Dataset.csv是对官网数据集稍做处理后的数据集
 去除缺失值后，UCI Heart Disease Dataset数据集[297 rows x 14 columns]
 thal指标用0，1，2进行替换 
 target指标换为存在（值1）和不存在（值0），方便做二分类。
-数据类型：
-age           int64
-sex           int64
-cp            int64
-trestbps      int64
-chol          int64
-fbs           int64
-restecg       int64
-thalach       int64
-exang         int64
-oldpeak     float64
-slope         int64
-ca            int64
-thal          int64
-target        int64
-dtype: object
