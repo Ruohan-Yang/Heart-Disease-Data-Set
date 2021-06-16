@@ -28,7 +28,7 @@ UCI Heart Disease Dataset.csv是对官网数据集稍做处理后的数据集
 官网原始数据集一共有303行, 14列，行索引从0-302
 其中ca列有4个缺失值，行索引分别为166，192，287，302
 其中thal列有2个缺失值，行索引分别为87，266
-去除缺失值后UCI Heart Disease Dataset数据集[297 rows x 14 columns]
+去除缺失值后，UCI Heart Disease Dataset数据集[297 rows x 14 columns]
 thal指标用0，1，2进行替换 
 target指标换为存在（值1）和不存在（值0），方便做二分类。
 数据类型：
